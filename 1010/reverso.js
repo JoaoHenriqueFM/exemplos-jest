@@ -1,0 +1,1 @@
+import { input } from "./Atividade_1010";
